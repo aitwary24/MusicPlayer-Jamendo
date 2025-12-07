@@ -1,0 +1,24 @@
+<resources>
+    <!-- Primary Brand Color -->
+    <color name="colorPrimary">#DAE5EF</color>
+    <color name="colorPrimaryDark">#A7D2F4</color>
+    <color name="colorAccent">#FF7A00</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundMain">#F4F4F4</color>      <!-- Light grey, not white -->
+    <color name="backgroundElevated">#FFFFFF</color>  <!-- White card -->
+
+    <!-- Cards -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardStroke">#DDDDDD</color>
+
+    <color name="chipBackground">#FFFFFF</color>
+    <color name="chipStroke">#DDDDDD</color>
+
+
+    <!-- Text -->
+    <color name="textPrimary">#111111</color>
+    <color name="textSecondary">#666666</color>
+
+    <color name="errorColor">#D32F2F</color>
+</resources>

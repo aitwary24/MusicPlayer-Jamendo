@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jamendo Music Player</string>
+
+    <string name="sort_name">Name</string>
+    <string name="sort_duration">Duration</string>
+    <string name="offline_mode">Offline cache</string>
+
+    <string name="action_prev">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_rewind_10">Back 10s</string>
+    <string name="action_forward_10">Forward 10s</string>
+
+    <string name="notification_default_subtitle">Jamendo streaming</string>
+
+    <string name="menu_toggle_theme">Toggle theme</string>
+    <string name="dark_mode">Dark</string>
+</resources>

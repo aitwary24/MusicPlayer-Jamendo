@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.jamendomusicplayer.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "com.example.jamendomusicplayer.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_rounded_card_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\rounded_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\layout_item_track.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\layout\\item_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_skip_next_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_skip_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_outline_backward_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\outline_backward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_bg_main_gradient.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\bg_main_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_bg_mini_player.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\bg_mini_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_rounded_12.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\rounded_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_music_note_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_music_note_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_moon_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_moon_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_pause_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_pause_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_skip_previous_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_skip_previous_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_ic_play_arrow_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\ic_play_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-debug-44:\\drawable_outline_fast_forward_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.7\\com.example.jamendomusicplayer.app-main-46:\\drawable\\outline_fast_forward_24.xml"
+    }
+]
